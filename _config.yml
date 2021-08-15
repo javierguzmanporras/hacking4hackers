@@ -30,9 +30,9 @@ twitter_username: jgp_ingTeleco
 github_username:  javierguzmanporras
 
 # Build settings
-# theme: minima
-theme: hacker
-# remote_theme: pages-themes/hacker@v0.2.0
+#theme: minima
+#theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
 
 plugins:
   - jekyll-feed
