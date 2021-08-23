@@ -1,0 +1,21 @@
+.two-columns {    
+    column-count: 2;
+    column-gap:20px;    
+    vertical-align: middle;
+    
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */    
+}
+
+#two-columns {    
+    column-count: 2;        
+    vertical-align: middle;
+    
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */    
+}
+
+.center {
+    padding: 20px 0;
+}
+

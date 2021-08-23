@@ -5,6 +5,8 @@ permalink: /about/
 date: 2021/08/15
 ---
 
+[comment]: <bundle exec jekyll serve>
+
 Hola, soy Javier Guzmán Porras y Hacking for Hackers (hacking4hacker, h4h) es mi blog personal.
 Soy ingeniero en telemática por la universidad Rey Juan Carlos y profesionalmente me dedico al sector de la ciberseguridad.
 

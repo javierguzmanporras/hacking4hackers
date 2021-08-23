@@ -18,16 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# >- this means to ignore newlines until "baseurl:"
+
+# Site Settings
 title: Hacking for Hackers
-email: javier.guzman.porras@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Artículos sobre ciberseguridad y videojuegos"  
+  
 baseurl: "/hacking4hackers" # the subpath of your site, e.g. /blog
 url: "https://javierguzmanporras.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jgp_ingTeleco
-github_username:  javierguzmanporras
+
+# Site Author
+author:
+  name: "Javier Guzmán Porras"
+  email: "javier.guzman.porras@gmail.com"
+  github: "javierguzmanporras"
+  twitter: "jgp_ingTeleco"
+
+
+
+
+
 
 # Build settings
 #theme: minima
